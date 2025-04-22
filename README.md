@@ -1,2 +1,2 @@
 # VB6_Project
-Final requirement project for SE2 class built with Visual Basic 6.0. Everything reflects what I learned during development.
+I built this project using Visual Basic 6.0 as part of my final requirement for my SE2 class. Everything here reflects what I learned during the development process. If you need help setting it up just check the README.md in the project folder.
